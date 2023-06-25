@@ -2,6 +2,8 @@
 run this command in terminal
 docker compose up -d
 then navigate in browser to :
+
+
 localhost:8001 for phpmyadmin
 
 and 
